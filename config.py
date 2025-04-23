@@ -1,9 +1,9 @@
 # Dict
 usernameList = ["111","admin","test"]
-passwordList = ["123456","7CUW3P82*iQIxHXQzWq8","admin124"]
+passwordList = ["123456","7CUW3P82*iQIxHXWq8","admin124"]
 
 # 目标网站参数
-target = "https://39.106.224.191:5000/#/login?redirect=/index"
+target = "https://39.106.224.19:5000/#/login?redirect=/index"
 # 登录页面用户名id标签
 getNameId = "custom-validation_username"
 # 登录页面密码id标签
